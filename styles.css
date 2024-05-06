@@ -177,3 +177,10 @@ figcaption {
   border: 2px solid white;
   color: white;
 }
+
+footer {
+  text-align: center;
+  color: #1f2937;
+  font-size: 14px;
+  padding-bottom: 10px;
+}
